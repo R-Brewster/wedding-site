@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Hello Nuxters! 👋</h1>
+    <h1 class="red">Hello Nuxters! 👋</h1>
     <p>
       This page is rendered on the <strong>{{ rendering }}</strong>
     </p>
